@@ -28,3 +28,5 @@ C:\Users\Pedro Gomes\Documents\Visual Studio 2015\Projects\VdC_Closed_Beta\VdC_C
 C:\Users\Pedro Gomes\Documents\Visual Studio 2015\Projects\VdC_Closed_Beta\VdC_Closed_Beta\bin\DesktopGL\x86\Debug\Content\Bush.xnb
 C:\Users\Pedro Gomes\Documents\Visual Studio 2015\Projects\VdC_Closed_Beta\VdC_Closed_Beta\bin\DesktopGL\x86\Debug\Content\Tree.xnb
 C:\Users\Pedro Gomes\Documents\Visual Studio 2015\Projects\VdC_Closed_Beta\VdC_Closed_Beta\bin\DesktopGL\x86\Debug\Content\teste1.json
+C:\Users\silva\Documents\VdC\VdC_Closed_Beta\VdC_Closed_Beta\obj\x86\Debug\VdC_Closed_Beta.exe
+C:\Users\silva\Documents\VdC\VdC_Closed_Beta\VdC_Closed_Beta\obj\x86\Debug\VdC_Closed_Beta.pdb

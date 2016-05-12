@@ -15,6 +15,7 @@ namespace VdC_Closed_Beta
         {
             using (var game = new Game1())
                 game.Run();
+            //FIM
         }
     }
 }
