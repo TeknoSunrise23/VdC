@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/Blood.png</File>
+    <File>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/Blue0L.png</File>
+    <File>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/Blue0R.png</File>
+    <File>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/Blue1L.png</File>
+    <File>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/Blue1R.png</File>
+    <File>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/BlueMashup.png</File>
+    <File>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/Bullet.png</File>
+    <File>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/FloorLeft.png</File>
+    <File>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/FloorMiddle.png</File>
+    <File>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/FloorRight.png</File>
+    <File>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/PlatformLeft.png</File>
+    <File>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/PlatformMiddle.png</File>
+    <File>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/PlatformRight.png</File>
+    <File>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/Red0L.png</File>
+    <File>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/Red0R.png</File>
+    <File>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/Red1L.png</File>
+    <File>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/Red1R.png</File>
+    <File>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/RedMashup.png</File>
+  </SourceFiles>
+</SourceFileCollection>
