@@ -27,4 +27,7 @@ c:\users\pedro gomes\documents\visual studio 2015\Projects\VingançaDoChocolate_
 c:\users\pedro gomes\documents\visual studio 2015\Projects\VingançaDoChocolate_OPENBETA\VingançaDoChocolate_OPENBETA\obj\x86\Debug\VingançaDoChocolate_OPENBETA.csprojResolveAssemblyReference.cache
 c:\users\pedro gomes\documents\visual studio 2015\Projects\VingançaDoChocolate_OPENBETA\VingançaDoChocolate_OPENBETA\obj\x86\Debug\VingançaDoChocolate_OPENBETA.exe
 c:\users\pedro gomes\documents\visual studio 2015\Projects\VingançaDoChocolate_OPENBETA\VingançaDoChocolate_OPENBETA\obj\x86\Debug\VingançaDoChocolate_OPENBETA.pdb
-c:\users\pedro gomes\documents\visual studio 2015\Projects\VingançaDoChocolate_OPENBETA\VingançaDoChocolate_OPENBETA\bin\DesktopGL\x86\Debug\Content\level1.json
+C:\Users\Pedro Gomes\Documents\Visual Studio 2015\Projects\VingançaDoChocolate_OPENBETA\VingançaDoChocolate_OPENBETA\bin\DesktopGL\x86\Debug\Content\level1.json
+C:\Users\Pedro Gomes\Documents\Visual Studio 2015\Projects\VingançaDoChocolate_OPENBETA\VingançaDoChocolate_OPENBETA\bin\DesktopGL\x86\Debug\Content\level2.json
+C:\Users\Pedro Gomes\Documents\Visual Studio 2015\Projects\VingançaDoChocolate_OPENBETA\VingançaDoChocolate_OPENBETA\bin\DesktopGL\x86\Debug\Content\level3.json
+C:\Users\Pedro Gomes\Documents\Visual Studio 2015\Projects\VingançaDoChocolate_OPENBETA\VingançaDoChocolate_OPENBETA\bin\DesktopGL\x86\Debug\Content\BulletL.xnb

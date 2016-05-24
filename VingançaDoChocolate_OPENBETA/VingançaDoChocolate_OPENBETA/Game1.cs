@@ -14,7 +14,7 @@ namespace VingançaDoChocolate_OPENBETA
 
         Player Jack;
         Player Bryan;
-        float scale = 0.713f;
+        float scale = 0.7119f;
 
        // int level;
         public static float unitSize = 128;
@@ -55,9 +55,9 @@ namespace VingançaDoChocolate_OPENBETA
                 else y = 0f;
 
                 if (imageName.Equals("Blue0R"))
-                    Jack = new Player(Content, imageName, new Vector2(x, y));
+                    Jack = new Player(Content, imageName, new Vector2(x, y),0);
                 else if (imageName.Equals("Red0L"))
-                    Bryan = new Player(Content, imageName, new Vector2(x, y));
+                    Bryan = new Player(Content, imageName, new Vector2(x, y),1);
                 else scene.Add(new Sprite(Content, imageName, new Vector2(x, y)));
                 //layers para listas diferentes aqui
             }
@@ -81,7 +81,8 @@ namespace VingançaDoChocolate_OPENBETA
                 Exit();
 
             // TODO: Add your update logic here
-
+            Bryan.Update(gameTime);
+            Jack.Update(gameTime);
             base.Update(gameTime);
         }
 
@@ -95,14 +96,20 @@ namespace VingançaDoChocolate_OPENBETA
             graphics.ApplyChanges();
             // TODO: Add your drawing code here
             spriteBatch.Begin(transformMatrix:
-               Matrix.CreateTranslation(GraphicsDevice.Viewport.Width / 2, GraphicsDevice.Viewport.Height/2 -64 ,0)  *
+                Matrix.CreateTranslation(GraphicsDevice.Viewport.Width / 2, GraphicsDevice.Viewport.Height/2 -64 ,0)  *
                 Matrix.CreateScale(scale) *
                 Matrix.CreateTranslation(scale* -GraphicsDevice.Viewport.Width / 2,scale*  GraphicsDevice.Viewport.Height, 0)
                 );
             foreach (Sprite sprite in scene)
                 sprite.Draw(spriteBatch);
-            spriteBatch.End();
 
+
+
+            Bryan.Draw(spriteBatch);
+            Jack.Draw(spriteBatch);
+
+            spriteBatch.End();
+           
             base.Draw(gameTime);
         }
     }

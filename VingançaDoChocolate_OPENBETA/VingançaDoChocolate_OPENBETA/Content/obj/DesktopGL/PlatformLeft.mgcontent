@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/PlatformLeft.png</SourceFile>
+  <SourceFile>C:/Users/Pedro Gomes/Documents/Visual Studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/PlatformLeft.png</SourceFile>
   <SourceTime>2016-05-17T15:54:44.3244022+01:00</SourceTime>
-  <DestFile>c:/users/pedro gomes/documents/visual studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/bin/DesktopGL/PlatformLeft.xnb</DestFile>
-  <DestTime>2016-05-17T17:02:09.8837923+01:00</DestTime>
+  <DestFile>C:/Users/Pedro Gomes/Documents/Visual Studio 2015/Projects/VingançaDoChocolate_OPENBETA/VingançaDoChocolate_OPENBETA/Content/bin/DesktopGL/PlatformLeft.xnb</DestFile>
+  <DestTime>2016-05-19T16:22:35.5806449+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2016-03-30T07:36:08+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
