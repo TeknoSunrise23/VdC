@@ -31,3 +31,5 @@ C:\Users\Pedro Gomes\Documents\Visual Studio 2015\Projects\VingançaDoChocolate_
 C:\Users\Pedro Gomes\Documents\Visual Studio 2015\Projects\VingançaDoChocolate_OPENBETA\VingançaDoChocolate_OPENBETA\bin\DesktopGL\x86\Debug\Content\level2.json
 C:\Users\Pedro Gomes\Documents\Visual Studio 2015\Projects\VingançaDoChocolate_OPENBETA\VingançaDoChocolate_OPENBETA\bin\DesktopGL\x86\Debug\Content\level3.json
 C:\Users\Pedro Gomes\Documents\Visual Studio 2015\Projects\VingançaDoChocolate_OPENBETA\VingançaDoChocolate_OPENBETA\bin\DesktopGL\x86\Debug\Content\BulletL.xnb
+C:\Users\Pedro Gomes\Documents\GitHub\VdC\VingançaDoChocolate_OPENBETA\VingançaDoChocolate_OPENBETA\obj\x86\Debug\VingançaDoChocolate_OPENBETA.exe
+C:\Users\Pedro Gomes\Documents\GitHub\VdC\VingançaDoChocolate_OPENBETA\VingançaDoChocolate_OPENBETA\obj\x86\Debug\VingançaDoChocolate_OPENBETA.pdb
